@@ -6,4 +6,5 @@ L'entreprise souhaite améliorer sa plateforme avec une nouvelle fonctionnalité
 Ce programme permet de :
 
 Détecter les sujets d’insatisfaction présents dans les commentaires postés sur la plateforme.
+
 Labelliser automatiquement les photos postées sur la plateforme. Par exemple, identifier les photos relatives à la nourriture, au décor dans le restaurant ou à l’extérieur du restaurant.
